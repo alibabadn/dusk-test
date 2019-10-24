@@ -1,11 +1,11 @@
 {
-    "name": "beyondcode/dusk-dashboard",
+    "name": "tangvanloc/dusk-test",
     "description": "A beautiful dashboard for your Laravel Dusk tests",
     "keywords": [
-        "beyondcode",
-        "dusk-dashboard"
+        "tangvanloc",
+        "dusk-test"
     ],
-    "homepage": "https://github.com/beyondcode/dusk-dashboard",
+    "homepage": "https://github.com/tangvanloc/dusk-test",
     "license": "MIT",
     "authors": [
         {
@@ -42,7 +42,6 @@
     "scripts": {
         "test": "vendor/bin/phpunit",
         "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
-
     },
     "config": {
         "sort-packages": true
